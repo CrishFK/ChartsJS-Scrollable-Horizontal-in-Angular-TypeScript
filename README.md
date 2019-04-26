@@ -1,4 +1,15 @@
-## Installation
+## Demo
+1. Clone my proyect
+2. Install
+```sh
+npm i
+```
+3. Start
+```sh
+npm start
+```
+
+## Installation in your Proyect
 
 1. Install ng-chartjs:
 
