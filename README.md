@@ -96,7 +96,7 @@ lineChartData: Array<any> = [
 ```sh
 <div class="chartWrapper">
   <div class="chartAreaWrapper">
-   <canvas ngChartjs height="400" width="15000" [datasets]="lineChartData" [labels]="lineChartLabels
+   <canvas ngChartjs height="400" width="15000" [datasets]="lineChartData" [labels]="lineChartLabels"
    [options]="lineChartOptions" [legend]="lineChartLegend" [chartType]="lineChartType" [inlinePlugins]="inlinePlugin">
    </canvas>
   </div>
